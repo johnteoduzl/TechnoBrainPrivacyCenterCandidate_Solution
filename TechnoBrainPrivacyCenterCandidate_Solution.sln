@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnoBrainPrivacyCenterCandidate", "TechnoBrainPrivacyCenterCandidate\TechnoBrainPrivacyCenterCandidate.csproj", "{77580345-E687-4CD7-A37B-33B89A25FD51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnoBraindll", "TechnoBraindll\TechnoBraindll.csproj", "{A0D7D7B8-2F93-4E13-8D6A-B2E6C0461626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnoBrainTests", "TechnoBrainTests\TechnoBrainTests.csproj", "{416A03E2-7CC0-443F-9667-6CB763C5539A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{77580345-E687-4CD7-A37B-33B89A25FD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77580345-E687-4CD7-A37B-33B89A25FD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77580345-E687-4CD7-A37B-33B89A25FD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D7D7B8-2F93-4E13-8D6A-B2E6C0461626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D7D7B8-2F93-4E13-8D6A-B2E6C0461626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D7D7B8-2F93-4E13-8D6A-B2E6C0461626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D7D7B8-2F93-4E13-8D6A-B2E6C0461626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{416A03E2-7CC0-443F-9667-6CB763C5539A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{416A03E2-7CC0-443F-9667-6CB763C5539A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{416A03E2-7CC0-443F-9667-6CB763C5539A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{416A03E2-7CC0-443F-9667-6CB763C5539A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
